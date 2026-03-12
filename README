@@ -1,5 +1,5 @@
-💻 Programación Avanzada - TLABG2
-Este repositorio contiene el desarrollo de las prácticas de laboratorio correspondientes a la materia de Programación Avanzada.
+💻 Programación Avanzada 
+Este repositorio contiene el desarrollo de las prácticas de laboratorio y Teoria correspondientes a la materia de Programación Avanzada.
 
 📂 Estructura de Prácticas
 Bash
@@ -14,8 +14,8 @@ Practicas y Tareas
 
 
 🛠️ Tecnologías y Herramientas
-Lenguaje: [Tu Lenguaje]
+Lenguaje: [C++]
 
-Entorno: [Tu IDE]
+Entorno: [Visual Studio]
 
 Control de Versiones: Git & GitHub
