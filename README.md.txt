@@ -1,0 +1,21 @@
+💻 Programación Avanzada - TLABG2
+Este repositorio contiene el desarrollo de las prácticas de laboratorio correspondientes a la materia de Programación Avanzada.
+
+📂 Estructura de Prácticas
+Bash
+Practicas y Tareas
+│── Piedra Papel o Tijera VERSION LINEAL
+│── Piedra Papel o Tijera VERSION MODULAR
+│── Mini Cacho
+│── Validacion Fechas
+│── AutoBus POO
+│── Piedra Papel o Tijera POO
+└──Cuenta Bancaria POO SIMPLE
+
+
+🛠️ Tecnologías y Herramientas
+Lenguaje: [Tu Lenguaje]
+
+Entorno: [Tu IDE]
+
+Control de Versiones: Git & GitHub
