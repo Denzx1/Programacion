@@ -8,7 +8,6 @@ private:
 	short opcionjugada;
 	int puntaje;
 	
-	// Retorna 1 si gana this, -1 si gana p2, 0 si hay empate
 	int evaluar(Player &p2) {
 		if (this->opcionjugada == p2.opcionjugada) {
 			return 0;
@@ -57,13 +56,12 @@ public:
 				p2.puntaje++;
 				cout << ">> Gano el jugador: " << p2.nombre << endl;
 			} else {
-				cout << ">> ¡Empate!" << endl;
+				cout << ">> ï¿½Empate!" << endl;
 			}
 		}
 		
 		float obtenerEficiencia(int nroPartidas) {
 			if (nroPartidas == 0) return 0;
-			// Casteo a float para evitar que la división de enteros de siempre 0
 			return ((float)puntaje / nroPartidas) * 100;
 		}
 		
